@@ -21,7 +21,11 @@ A simple and interactive Tic Tac Toe (Noughts and Crosses) game built with **HTM
 - **CSS** for styling  
 - **JavaScript** for game logic
 
-## 📂 Project Structure
+## 🌐 Hosting
+
+| Platform       | Type           | Live Link |
+|----------------|----------------|-----------|
+| **Netlify**    | Static Hosting | [https://tic-tac-toe-game1503.netlify.app/]
 
 
 
